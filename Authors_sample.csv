@@ -1,0 +1,203 @@
+ID,Study_ID,Author,Affiliation_ID,Affiliation,City,Country
+1,0,Oji C.,60019378,Ebonyi State University Teaching Hospital,Abakaliki,Nigeria
+2,0,Chukwuneke F.,60025390,University of Nigeria,Naukka,Nigeria
+3,1,Adeyemi A.,60006270,University of Ibadan,Ibadan,Nigeria
+4,1,Bankole O.,60006270,University of Ibadan,Ibadan,Nigeria
+5,2,Oludiran O.O.,60017980,University of Benin,Benin,Nigeria
+6,2,Omotoso D.R.,60017980,University of Benin,Benin,Nigeria
+7,2,Sakpa C.L.,60017980,University of Benin,Benin,Nigeria
+8,3,Khammissa R.,60017614,University of Limpopo,Sovenga,South Africa
+9,3,Feller L.,60017614,University of Limpopo,Sovenga,South Africa
+10,3,Altini M.,60016218,"University of the Witwatersrand, Johannesburg",Johannesburg,South Africa
+11,3,Fatti P.,60016218,"University of the Witwatersrand, Johannesburg",Johannesburg,South Africa
+12,3,Lemmer J.,60017614,University of Limpopo,Sovenga,South Africa
+13,4,Arinola J.,60006448,University of Lagos,Lagos,Nigeria
+14,4,Olukoju O.,60006448,University of Lagos,Lagos,Nigeria
+15,5,Ajayi D.,60006270,University of Ibadan,Ibadan,Nigeria
+16,5,Arigbede A.,60029544,University of Port Harcourt,Port Harcourt,Nigeria
+17,6,Ize-Iyamu I.N.,60017980,University of Benin,Benin,Nigeria
+18,6,Isiekwe M.C.,60006448,University of Lagos,Lagos,Nigeria
+19,7,Anthony O.E.,60017980,University of Benin,Benin,Nigeria
+20,7,Rachel O.,60017980,University of Benin,Benin,Nigeria
+21,8,Sangaré A.D.,100822043,University of Cocody,N/A,France
+22,8,Samba M.,100822043,University of Cocody,N/A,France
+23,8,Bourgeois D.,60023578,Université Claude Bernard Lyon 1,Villeurbanne,France
+24,9,Achembong L.N.,60015481,University of Washington,Seattle,United States
+25,9,Ashu A.M.,101954914,Cameroon Baptist Convention Health Board,Mbingo,Cameroon
+26,9,Hagopian A.,60015481,University of Washington,Seattle,United States
+27,9,Downer A.,60015481,University of Washington,Seattle,United States
+28,9,Barnhart S.,60015481,University of Washington,Seattle,United States
+29,10,Masalu J.,60091726,Muhimbili University of Health and Allied Sciences,Dar Es Salaam,Tanzania
+30,10,Kikwilu E.,60091726,Muhimbili University of Health and Allied Sciences,Dar Es Salaam,Tanzania
+31,10,Kahabuka F.,60091726,Muhimbili University of Health and Allied Sciences,Dar Es Salaam,Tanzania
+32,10,Mtaya M.,60091726,Muhimbili University of Health and Allied Sciences,Dar Es Salaam,Tanzania
+33,10,Senkoro A.,60071587,Ministry of Health and Social Welfare Dar es Salaam,Dar Es Salaam,Tanzania
+34,11,Tugaineyo E.I.,112859364,Mulago National Referral and Teaching Hospital,Kampala,Uganda
+35,11,Odhiambo W.A.,60048717,University of Nairobi,Nairobi,Kenya
+36,11,Akama M.K.,60048717,University of Nairobi,Nairobi,Kenya
+37,11,Guthua S.W.,60048717,University of Nairobi,Nairobi,Kenya
+38,11,Dimba E.A.O.,60048717,University of Nairobi,Nairobi,Kenya
+39,12,Olze A.,60026245,Charité – Universitätsmedizin Berlin,Berlin,Germany
+40,12,Van Niekerk P.,60021902,University of Pretoria,Pretoria,South Africa
+41,12,Schulz R.,60000401,Westfälische Wilhelms-Universität Münster,Munster,Germany
+42,12,Ribbecke S.,112810871,Statistik-Service S2,Berlin,Germany
+43,12,Schmeling A.,60026245,Charité – Universitätsmedizin Berlin,Berlin,Germany
+44,13,Azodo C.,60017980,University of Benin,Benin,Nigeria
+45,13,Ezeja E.,60017980,University of Benin,Benin,Nigeria
+46,13,Omoaregba J.,100617488,Federal Psychiatric Hospital,Benin,Nigeria
+47,13,James B.,100617488,Federal Psychiatric Hospital,Benin,Nigeria
+48,14,Adebayo E.,101599296,Military Hospital,Kaduna,Nigeria
+49,14,Ahaji L.,101599296,Military Hospital,Kaduna,Nigeria
+50,14,Nnachetta R.,101599296,Military Hospital,Kaduna,Nigeria
+51,14,Nwankwo O.,101599296,Military Hospital,Kaduna,Nigeria
+52,14,Akabogu-Okpeseyi N.,101599296,Military Hospital,Kaduna,Nigeria
+53,14,Yaya M.,101599296,Military Hospital,Kaduna,Nigeria
+54,14,Hussain N.,100376946,Military Hospital,Lagos,Nigeria
+55,15,Tamí-Maury I.,60027086,The University of Alabama at Birmingham,Birmingham,United States
+56,15,Tamí-Maury I.,60015023,University of Texas MD Anderson Cancer Center,Houston,United States
+57,15,Coulibaly Y.,60071985,"University of Bamako Faculty of Medicine, Pharmacy and Odonto-Stomatology",Bamako,Mali
+58,15,Cissoko S.,113114351,Pharmacie/Centre Hospitalier Universitaire Gabriel Touré,Bamako,Mali
+59,15,Dao S.,113114815,Centre Hospitalier Universitaire Point G,Bamako,Mali
+60,15,Kristensen S.,113114879,One Heart World-Wide,San Francisco,United States
+61,16,Adeyemo W.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+62,16,Taiwo O.,60032480,Usmanu Danfodiyo University,Sokoto,Nigeria
+63,16,Oderinu O.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+64,16,Adeyemi M.,60010382,University of Ilorin,Ilorin,Nigeria
+65,16,Ladeinde A.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+66,16,Ogunlewe M.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+67,17,Adeyemo W.L.,60006448,University of Lagos,Lagos,Nigeria
+68,17,Taiwo O.A.,60006448,University of Lagos,Lagos,Nigeria
+69,17,Adeyemi M.O.,60006448,University of Lagos,Lagos,Nigeria
+70,17,Adewole R.A.,60006448,University of Lagos,Lagos,Nigeria
+71,17,Gbotolorun O.M.,60006448,University of Lagos,Lagos,Nigeria
+72,18,Osunde O.,60104685,Aminu Kano Teaching Hospital,Kano,Nigeria
+73,18,Adebola R.,60104685,Aminu Kano Teaching Hospital,Kano,Nigeria
+74,18,Saheeb B.,60017980,University of Benin,Benin,Nigeria
+75,19,Gbadebo A.M.,60008386,"Federal University of Agriculture, Abeokuta",Abeokuta,Nigeria
+76,20,Wandera M.,60071676,Makerere University,Kampala,Uganda
+77,20,Åstrøm A.,60029622,Universitetet i Bergen,Bergen,Norway
+78,20,Okullo I.,60029622,Universitetet i Bergen,Bergen,Norway
+79,20,Tumwine J.,60071676,Makerere University,Kampala,Uganda
+80,21,Bernard E.K.,60048717,University of Nairobi,Nairobi,Kenya
+81,21,Akama M.K.,60048717,University of Nairobi,Nairobi,Kenya
+82,21,Odhiambo W.A.,60048717,University of Nairobi,Nairobi,Kenya
+83,21,Chindia M.L.,60048717,University of Nairobi,Nairobi,Kenya
+84,21,Mua B.,60048717,University of Nairobi,Nairobi,Kenya
+85,23,Isiekwe G.I.,60006448,University of Lagos,Lagos,Nigeria
+86,23,DaCosta O.O.,60199625,Lagos University Teaching Hospital,Lagos,Nigeria
+87,23,Isiekwe M.C.,60199625,Lagos University Teaching Hospital,Lagos,Nigeria
+88,24,Mwangosi I.,60071590,Muhimbili National Hospital,Dar Es Salaam,Tanzania
+89,24,Tillya J.,110545961,Dar es Salaam City Council,N/A,Tanzania
+90,25,Adeyemi M.F.,60010382,University of Ilorin,Ilorin,Nigeria
+91,25,Adeyemo W.L.,60006448,University of Lagos,Lagos,Nigeria
+92,25,Ogunlewe M.O.,60006448,University of Lagos,Lagos,Nigeria
+93,25,Ladeinde A.L.,60006448,University of Lagos,Lagos,Nigeria
+94,26,Masumo R.,60029622,Universitetet i Bergen,Bergen,Norway
+95,26,Bardsen A.,60029622,Universitetet i Bergen,Bergen,Norway
+96,26,Mashoto K.,60091726,Muhimbili University of Health and Allied Sciences,Dar Es Salaam,Tanzania
+97,26,Astrom A.,60029622,Universitetet i Bergen,Bergen,Norway
+98,27,Buwembo W.,60071676,Makerere University,Kampala,Uganda
+99,27,Kutesa A.,60071676,Makerere University,Kampala,Uganda
+100,27,Muwazi L.,60071676,Makerere University,Kampala,Uganda
+101,27,Rwenyonyi C.M.,60071676,Makerere University,Kampala,Uganda
+102,28,Kalema N.,60071676,Makerere University,Kampala,Uganda
+103,28,de n Boon S.,60071676,Makerere University,Kampala,Uganda
+104,28,Cattamanchi A.,60071676,Makerere University,Kampala,Uganda
+105,28,Davis J.,60023691,"University of California, San Francisco",San Francisco,United States
+106,28,Andama A.,60071676,Makerere University,Kampala,Uganda
+107,28,Katagira W.,60023691,"University of California, San Francisco",San Francisco,United States
+108,28,Everett C.,60071676,Makerere University,Kampala,Uganda
+109,28,Walter N.,60071676,Makerere University,Kampala,Uganda
+110,28,Byanyima P.,60071676,Makerere University,Kampala,Uganda
+111,28,Kaswabuli S.,60071676,Makerere University,Kampala,Uganda
+112,28,Worodria W.,60023691,"University of California, San Francisco",San Francisco,United States
+113,28,Huang L.,60071676,Makerere University,Kampala,Uganda
+114,29,Steyn N.P.,60015399,Human Sciences Research Council of South Africa,Pretoria,South Africa
+115,29,Temple N.J.,60018510,Athabasca University,Athabasca,Canada
+116,30,Agbor M.,60017980,University of Benin,Benin,Nigeria
+117,30,Azodo C.,60017980,University of Benin,Benin,Nigeria
+118,31,Masiga M.A.,60070578,University of Nairobi School of Dental Sciences,Nairobi,Kenya
+119,31,Machoki J.M.,60048717,University of Nairobi,Nairobi,Kenya
+120,32,Ajayi D.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+121,32,Abiodun-Solanke I.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+122,32,Sulaiman A.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+123,32,Ekhalufoh E.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+124,33,Ehizele A.,60017980,University of Benin,Benin,Nigeria
+125,33,Azodo C.,60017980,University of Benin,Benin,Nigeria
+126,33,Ojehanon P.,60017980,University of Benin,Benin,Nigeria
+127,33,Akhionbare O.,60017980,University of Benin,Benin,Nigeria
+128,33,Umoh A.,60017980,University of Benin,Benin,Nigeria
+129,33,Adeghe H.,60017980,University of Benin,Benin,Nigeria
+130,34,Obimakinde O.,110016946,University Teaching Hospital,Ado-Ekiti,Nigeria
+131,34,Okoje V.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+132,34,Akinmoladun V.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+133,34,Fasola A.,110016946,University Teaching Hospital,Ado-Ekiti,Nigeria
+134,34,Arotiba J.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+135,35,Bukar M.,60013763,University of Maiduguri,Maiduguri,Nigeria
+136,35,Audu B.,60013763,University of Maiduguri,Maiduguri,Nigeria
+137,35,Adesina O.,60013763,University of Maiduguri,Maiduguri,Nigeria
+138,35,Marupa J.,113076920,Medical Centre Yola,N/A,Nigeria
+139,36,Maharaj B.,60010499,University of KwaZulu-Natal,Durban,South Africa
+140,36,Vayej A.C.,112977118,Programme: Oral Health,Durban,South Africa
+141,37,Rakotoarison R.A.,60120571,Université de Mahajanga,Majunga,Madagascar
+142,37,Rakotoarivony A.E.,60120571,Université de Mahajanga,Majunga,Madagascar
+143,37,Rabesandratana N.,60120571,Université de Mahajanga,Majunga,Madagascar
+144,37,Razafindrabe J.B.,60072617,Université d'Antananarivo,Antananarivo,Madagascar
+145,37,Andriambololona R.,60072617,Université d'Antananarivo,Antananarivo,Madagascar
+146,37,Andriambololo-Nivo R.,60120571,Université de Mahajanga,Majunga,Madagascar
+147,37,Feki A.,60103368,Université de Strasbourg,Strasbourg,France
+148,38,Kebede B.,60071196,Jimma University,Jimma,Ethiopia
+149,38,Kemal T.,60071196,Jimma University,Jimma,Ethiopia
+150,38,Abera S.,60071196,Jimma University,Jimma,Ethiopia
+151,39,Diouf M.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+152,39,Cisse D.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+153,39,Faye A.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+154,39,Niang P.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+155,39,Seck I.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+156,39,Faye D.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+157,39,Lo C.M.M.,112996301,"Faculty of Medicine, Pharmacy and Dentistry",Dakar,Senegal
+158,40,Okeigbemen S.A.,60017980,University of Benin,Benin,Nigeria
+159,40,Jeboda S.O.,60006448,University of Lagos,Lagos,Nigeria
+160,40,Umweni A.A.,60017980,University of Benin,Benin,Nigeria
+161,41,Aikins E.A.,60029544,University of Port Harcourt,Port Harcourt,Nigeria
+162,41,Dacosta O.O.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+163,41,Onyeaso C.O.,60029544,University of Port Harcourt,Port Harcourt,Nigeria
+164,41,Isiekwe M.C.,60024019,"College of Medicine, University of Lagos",Lagos,Nigeria
+165,42,Diouf M.,60107165,"Unité Mixte Internationale Environnement, Santé, Sociétés",Dakar,Senegal
+166,42,Boetsch G.,60107165,"Unité Mixte Internationale Environnement, Santé, Sociétés",Dakar,Senegal
+167,42,Cissé D.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+168,42,Tal-Dia A.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+169,42,Bonfil J.J.,60102127,Aix Marseille Université,Marseille,France
+170,43,Okoje V.N.,60006270,University of Ibadan,Ibadan,Nigeria
+171,43,Dosumu O.O.,60006270,University of Ibadan,Ibadan,Nigeria
+172,43,Alonge T.O.,60006270,University of Ibadan,Ibadan,Nigeria
+173,43,Onyeaso C.,60006270,University of Ibadan,Ibadan,Nigeria
+174,44,Diouf M.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+175,44,Cisse D.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+176,44,Lo C.M.M.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+177,44,Ly M.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+178,44,Faye D.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+179,44,Ndiaye O.,60071540,Universite Cheikh Anta Diop,Dakar,Senegal
+180,45,Ogunmuyiwa S.A.,60031743,Federal Medical Centre Nigeria,N/A,Nigeria
+181,45,Fatusi O.A.,60110453,Obafemi Awolowo University Teaching Hospitals Complex,Ife,Nigeria
+182,45,Ugboko V.I.,60011031,Obafemi Awolowo University,Ife,Nigeria
+183,45,Ayoola O.O.,60110453,Obafemi Awolowo University Teaching Hospitals Complex,Ife,Nigeria
+184,45,Maaji S.M.,60110453,Obafemi Awolowo University Teaching Hospitals Complex,Ife,Nigeria
+185,46,Ibiyemi O.,60006270,University of Ibadan,Ibadan,Nigeria
+186,46,Ibiyemi T.,60018680,"University College Hospital, Ibadan",Ibadan,Nigeria
+187,47,MacNab A.,60010365,The University of British Columbia,Vancouver,Canada
+188,47,Kasangaki A.,60001565,Stellenbosch University,Stellenbosch,South Africa
+189,48,Muasya M.K.,60048717,University of Nairobi,Nairobi,Kenya
+190,48,Ng’Ang’A P.M.,60048717,University of Nairobi,Nairobi,Kenya
+191,48,Opinya G.N.,60048717,University of Nairobi,Nairobi,Kenya
+192,48,Macigo F.G.,60048717,University of Nairobi,Nairobi,Kenya
+193,49,Fadeyibi I.,60026284,Lagos State University Teaching Hospital,Lagos,Nigeria
+194,49,Coker O.,60026284,Lagos State University Teaching Hospital,Lagos,Nigeria
+195,49,Zacchariah M.,60026284,Lagos State University Teaching Hospital,Lagos,Nigeria
+196,49,Fasawe A.,112844372,Ministry of Health,Lagos,Nigeria
+197,49,Ademiluyi S.,60026284,Lagos State University Teaching Hospital,Lagos,Nigeria
+198,50,Butt F.,60048717,University of Nairobi,Nairobi,Kenya
+199,50,Guthua S.,60048717,University of Nairobi,Nairobi,Kenya
+200,50,Awange D.,60048717,University of Nairobi,Nairobi,Kenya
+201,50,Dimba E.,60048717,University of Nairobi,Nairobi,Kenya
+202,50,MacIgo F.,60048717,University of Nairobi,Nairobi,Kenya
